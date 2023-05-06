@@ -1,0 +1,7 @@
+openai==0.27.0
+llama-index==0.4.24
+gradio==3.20.0
+pypdf2==3.0.1
+pycryptodome==3.17
+transformers==4.28.1
+langchain==0.0.153
